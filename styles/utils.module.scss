@@ -1,0 +1,56 @@
+.utils__heading-2Xl {
+  font-size: 1.5rem;
+  line-height: 1.2;
+  font-weight: 800;
+  letter-spacing: -0.05rem;
+  margin: 1rem 0 0;
+}
+
+.utils__heading-Xl {
+  font-size: 1rem;
+  line-height: 1.3;
+  font-weight: 800;
+  letter-spacing: -0.05rem;
+  margin: 1rem 0;
+}
+
+.utils__heading-Lg {
+  font-size: 0.5rem;
+  line-height: 1.4;
+  margin: 1rem 0;
+}
+
+.utils__border-circle {
+  border-radius: 9999px;
+}
+
+.utils__color-inherit {
+  color: inherit;
+}
+
+.utils__list-title {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.utils__separator {
+  margin: 20px 40px;
+  height: 1px;
+  border: 1px solid #ffffffa1;
+}
+
+.utils__label {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.utils__value {
+  font-size: 16px;
+}
+
+@media screen and (min-width: 990px) {
+  .utils__section-container {
+    overflow-x: hidden;
+    overflow-y: auto;
+  }
+}
