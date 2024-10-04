@@ -1,4 +1,4 @@
 ---
-title: "Frontend developer"
+title: "About me"
 description: "I have over 10 years of experience in software development, working at three different companies. In the early years of my career, I focused on Java, primarily using RESTful services and Hibernate. More recently, I’ve specialized in Frontend development, working extensively with React and Redux, alongside libraries such as Bootstrap, Moment.js, Lodash, Axios, SASS, Next.js, and others.\n\nI have also gained experience with build tools like Webpack and use Jest for unit testing in my projects. In terms of methodology, I have been following Scrum for agile development, with Git as my preferred version control system.\n\nIn the past few years, I’ve been focusing on developing my soft skills, particularly in leadership. Currently, I lead a UI team of four people, managing both the technical direction and team dynamics."
 ---
