@@ -1,5 +1,5 @@
 export const DEFAULT_URL_IMAGE = '/images/profile.jpg';
-export const NAME = 'Wilfer Salazar Giraldo';
+export const NAME = 'Wilfer Salazar';
 export const SITE_TITLE = 'Wilfer Salazar CV';
 export const INTRODUCTION_INFO_KEY = 'selfIntroduction';
 export const LABOR_EXPERIENCE_INFO_KEY = 'laborExperience';
