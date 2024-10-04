@@ -6,7 +6,7 @@ jobs: [
         company: 'Perficient',
         city: 'Medellín, Colombia',
         date: 'Feb 2022 - current',
-        description: "I'm working on the CAT commerce page, where we are migrating all the platforms from old technologies to React & Redux, and we are getting information from the server consuming rest services. \nWe are using agile methodologies (SCRUM) to do the continued migration and also we are using continuous integration to kick off deploys, monitoring test coverage and good practices."
+        description: "I'm working on the CAT commerce page, where we are migrating all the platforms from old technologies to React, Redux, TypeScript & NextJs, and we are getting information from the server consuming rest services. \nWe are using agile methodologies (SCRUM) to do the continued migration and also we are using continuous integration to kick off deploys, monitoring test coverage and good practices."
     },
     {
         occupation: 'Web UI',
