@@ -9,7 +9,7 @@ export const PERSONAL_INFORMATION = [
     { label: 'Email', value: 'wilfersalazar19@gmail.com' },
     { label: 'Age', value: '30 years' },
     { label: 'Date of birth', value: '01-18-1994' },
-    { label: 'Address', value: 'Calle 103 A # 45 - 40' },
+    { label: 'Address', value: 'Cra. 54A #75 sur-13' },
     { label: 'Phone', value: '+57 3148096826' },
     { label: 'Nationality', value: 'Colombian' },
     { label: 'Children', value: '1' },
