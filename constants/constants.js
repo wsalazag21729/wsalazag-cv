@@ -17,7 +17,7 @@ export const PERSONAL_INFORMATION = [
 ]
 export const SKILLS_INFORMATION_TITLE = 'Skills';
 export const SKILLS_INFORMATION = ['React', 'Redux', 'NextJs', 'Javascript', 'TypeScript', 'HTML5', 'CSS',
-    'SASS', 'Webpack', 'Scrum', 'Jest', 'Git', 'AWS'];
+    'SASS', 'Webpack', 'Scrum', 'Jest', 'Git'];
 export const LANGUAGES_INFORMATION_TITLE = 'Languages';
 export const LANGUAGES_INFORMATION = [
     { label: 'Spanish', value: 'Native' },
