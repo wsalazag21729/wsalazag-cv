@@ -16,8 +16,8 @@ export const PERSONAL_INFORMATION = [
     { label: 'Marital status', value: 'Civil union' }
 ]
 export const SKILLS_INFORMATION_TITLE = 'Skills';
-export const SKILLS_INFORMATION = ['React', 'Redux', 'NextJs', 'Javascript', 'HTML5', 'CSS',
-    'SASS', 'Webpack', 'Scrum', 'Jest', 'Git'];
+export const SKILLS_INFORMATION = ['React', 'Redux', 'NextJs', 'Javascript', 'Typescript', 'HTML5', 'CSS',
+    'SASS', 'Webpack', 'Scrum', 'Jest', 'Git', 'AWS'];
 export const LANGUAGES_INFORMATION_TITLE = 'Languages';
 export const LANGUAGES_INFORMATION = [
     { label: 'Spanish', value: 'Native' },
