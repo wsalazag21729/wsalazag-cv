@@ -6,7 +6,7 @@ jobs: [
         company: 'Perficient',
         city: 'Medellín, Colombia',
         date: 'Feb 2022 - current',
-        description: "I am currently working on the CAT commerce page, where we are migrating all platforms from legacy technologies to modern frameworks, specifically React, Redux, TypeScript, and Next.js. We retrieve information from the server by consuming RESTful services.\nTo facilitate this ongoing migration, we are employing agile methodologies (SCRUM) and implementing continuous integration to streamline deployments. Additionally, we focus on monitoring test coverage and adhering to best practices throughout the process"
+        description: "I am currently working on the CAT commerce page, where we are migrating all platforms from legacy technologies to modern frameworks, specifically React, Redux, TypeScript, and Next.js. We retrieve information from the server by consuming RESTful services.\nTo facilitate this ongoing migration, we are employing agile methodologies (SCRUM) and implementing continuous integration to streamline deployments. Additionally, we focus on monitoring test coverage and adhering to best practices throughout the process."
     },
     {
         occupation: 'Software Engineer',
@@ -27,7 +27,7 @@ jobs: [
         company: 'Boos soluciones',
         city: 'Medellín, Colombia',
         date: 'Feb 2013 - Mar 2015',
-        description: 'This was my first role in software development, where I was responsible for providing support and resolving issues related to a company project called Talento. This project enabled employees to evaluate peers, leaders, and themselves by calculating ratings and offering areas for improvement. Additionally, it allowed users to set and track their personal goals'
+        description: 'This was my first role in software development, where I was responsible for providing support and resolving issues related to a company project called Talento. This project enabled employees to evaluate peers, leaders, and themselves by calculating ratings and offering areas for improvement. Additionally, it allowed users to set and track their personal goals.'
     }
 ]
 ---
