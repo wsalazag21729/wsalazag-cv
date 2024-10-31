@@ -26,7 +26,7 @@ jobs: [
         occupation: 'Web UI',
         company: 'Boos soluciones',
         city: 'Medellín, Colombia',
-        date: 'Feb 2013 - Mar 22015',
+        date: 'Feb 2013 - Mar 2015',
         description: 'This was my first role in software development, where I was responsible for providing support and resolving issues related to a company project called Talento. This project enabled employees to evaluate peers, leaders, and themselves by calculating ratings and offering areas for improvement. Additionally, it allowed users to set and track their personal goals'
     }
 ]
