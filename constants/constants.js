@@ -21,5 +21,5 @@ export const SKILLS_INFORMATION = ['React', 'Redux', 'NextJs', 'Javascript', 'Ty
 export const LANGUAGES_INFORMATION_TITLE = 'Languages';
 export const LANGUAGES_INFORMATION = [
     { label: 'Spanish', value: 'Native' },
-    { label: 'English', value: 'Intermediate' }
+    { label: 'English', value: 'Upper-Intermediate' }
 ]
