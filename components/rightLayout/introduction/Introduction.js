@@ -1,4 +1,4 @@
-import styles from '../introduction.module.scss';
+import styles from './introduction.module.scss';
 
 const Introduction = ({ introductionInfo }) => {
     return (
