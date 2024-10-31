@@ -2,14 +2,14 @@
 title: "Experience"
 jobs: [
     {
-        occupation: 'Web developer',
+        occupation: 'Software Engineer',
         company: 'Perficient',
         city: 'Medellín, Colombia',
         date: 'Feb 2022 - current',
         description: "I am currently working on the CAT commerce page, where we are migrating all platforms from legacy technologies to modern frameworks, specifically React, Redux, TypeScript, and Next.js. We retrieve information from the server by consuming RESTful services.\nTo facilitate this ongoing migration, we are employing agile methodologies (SCRUM) and implementing continuous integration to streamline deployments. Additionally, we focus on monitoring test coverage and adhering to best practices throughout the process"
     },
     {
-        occupation: 'Web UI',
+        occupation: 'Software Engineer',
         company: 'Globant',
         city: 'Medellín, Colombia',
         date: 'Nov 2017 - Feb 2022',
