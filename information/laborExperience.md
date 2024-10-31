@@ -2,7 +2,7 @@
 title: "Experience"
 jobs: [
     {
-        occupation: 'Software Engineer',
+        occupation: 'Software Engineer Senior',
         company: 'Perficient',
         city: 'Medellín, Colombia',
         date: 'Feb 2022 - current',
