@@ -11,7 +11,6 @@ export const PERSONAL_INFORMATION = [
     { label: 'Address', value: 'Cra. 54A #75 sur-13' },
     { label: 'Phone', value: '+57 3148096826' },
     { label: 'Nationality', value: 'Colombian' },
-    { label: 'Children', value: '1' },
     { label: 'Marital status', value: 'Civil union' }
 ]
 export const SKILLS_INFORMATION_TITLE = 'Skills';
