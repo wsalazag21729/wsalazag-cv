@@ -1,5 +1,4 @@
 import cx from 'classnames';
-import Link from 'next/link';
 import styles from '../styles/introduction.module.scss';
 
 const Introduction = ({ introductionInfo }) => {
